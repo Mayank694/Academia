@@ -1,0 +1,8 @@
+{
+  "name": "a2o",
+  "description": "A barebones Node.js app using Express 4",
+  "repository": "https://github.com/NihalSh/a2o",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "express", "heroku"],
+  "image": "heroku/nodejs"
+}
