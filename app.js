@@ -32,7 +32,7 @@ app.use(function(req, res, next) {
 	next();
 });
 
-require('./routes.js')(app);
+require('./routes.js')(app)sfd;
 
 app.use(function(req, res){
 		res.sendStatus(404);
