@@ -32,7 +32,11 @@ app.use(function(req, res, next) {
 	next();
 });
 
+<<<<<<< Updated upstream
 require('./routes.js')(app)sfop;
+=======
+require('./routes.js')(app)ujjwal;
+>>>>>>> Stashed changes
 
 app.use(function(req, res){
 		res.sendStatus(404);
